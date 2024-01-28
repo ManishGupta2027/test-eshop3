@@ -1,0 +1,36 @@
+
+git add uploads/
+git add . 
+
+git status
+git commit -m "Add backend directory"
+git push origin main
+
+
+
+/**///
+Source code:
+https://github.com/shahriarsajeeb/Esh...
+(Don't forget to give a star  ⭐)
+
+Timestamps:
+00:00:00 - 00:01:10 Intro
+00:01:11 - 00:12:06 Demo
+00:12:06 - 00:21:28 Project Setup
+00:21:29 - 00:24:42 my code editor preview
+00:24:43 - 01:00:55 Login Page Frontend
+01:00:56 - 01:17:46 Signup Page Frontend
+01:17:46 - 01:52:05 Setup Backend
+01:52:34 - 02:03:52 User model ( Here have an editing mistake please go GitHub repo and copy this file code)
+02:03:52 - 02:34:44 User Controller
+02:34:44 - 04:07:51 User Activation with Frontend Implement
+04:07:51 - 04:54:54 Header Frontend with search and filter functionalities
+04:54:54 - 05:03:17 Hero Frontend
+05:03:17 - 05:14:39 Categories Frontend
+05:14:39 -  05:43:02 Best Deals and Product Card Frontend
+05:43:02 - 06:11:06 Product Details Card Frontend
+06:11:06 - 06:36:50 Events card & Featured Products Frontend
+06:36:50 - 06:56:26 Sponsored And Footer Frontend
+06:56:26 - 07:37:10 Best Selling, Products, Events, FAQ Page Frontend  
+
+===== coming next part =====
